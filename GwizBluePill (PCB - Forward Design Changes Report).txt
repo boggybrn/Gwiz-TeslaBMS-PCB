@@ -1,0 +1,19 @@
+Forward Design Changes Report
+-----------------------------
+
+Report Written:     Tuesday, September 22, 2020
+Project Path:       E:\EV investigation\G-Wiz\MyBMS\PCB\GwizBluePill.prj
+Design Path:        E:\EV investigation\G-Wiz\MyBMS\PCB\GwizBluePill.pcb
+Design Title:       
+Created:            7/8/2020 5:51:05 PM
+Last Saved:         9/22/2020 5:46:00 PM
+Editing Time:       3557 min
+Units:              mm (precision 2)
+
+Added component reference "CNBatFan" of component "molex39-28-1043", package "SHDR4W64P550X420_2X2_960X960X1".
+
+Connected pin "CNBatFan.1" to net "GND".
+Connected pin "CNBatFan.3" to net "BAT_FAN".
+
+
+End Of Report.

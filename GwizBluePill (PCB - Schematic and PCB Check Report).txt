@@ -1,0 +1,37 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     Tuesday, September 22, 2020
+Project Path:       E:\EV investigation\G-Wiz\MyBMS\PCB\GwizBluePill.prj
+Design Path:        E:\EV investigation\G-Wiz\MyBMS\PCB\GwizBluePill.pcb
+Design Title:       
+Created:            7/8/2020 5:51:05 PM
+Last Saved:         9/22/2020 5:46:00 PM
+Editing Time:       3556 min
+Units:              mm (precision 2)
+
+
+Checking integrity of Schematic and Pcb designs in project "GwizBluePill"
+=========================================================================
+
+The PCB and Schematic designs do not match.
+To bring them into line, you will need to make the following changes to the PCB design:
+
+
+Component 'BTS117BKSA1' package 'TO254P440X1000X2110-3P' in PCB is newer version than Schematic, use Update Component to correct this.
+Component 'BLUE_PILL_JS' package 'BLUE_PILL' in Schematic is newer version than PCB, use Update Component to correct this.
+
+Value "Arrow Part Number" on component instance "IC4" caused by library item mismatch.
+
+Value "Arrow Price/Stock" on component instance "IC4" caused by library item mismatch.
+
+Use Update to reload Component "BTS117BKSA1" to add/alter Value "Mouser Price/Stock"
+Use Update to reload Component "BTS117BKSA1" to add/alter Value "RS Part Number"
+Use Update to reload Component "BTS117BKSA1" to add/alter Value "RS Price/Stock"
+Add Component "CNBatFan" [molex39-28-1043]
+
+Connect Pin CNBatFan-1 to Net "GND"
+Connect Pin CNBatFan-3 to Net "BAT_FAN"
+
+
+End Of Report.
