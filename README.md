@@ -16,3 +16,5 @@ The hardware provides:
 The firmware to run on the Blue Pill can be found at https://github.com/boggybrn/Gwiz-TeslaBMS 
 
 Feel free to use this design as you see fit. Note however that it is offered as is without any warranty or support - it is just something created to get a G-Wiz back on the road and is left here in the hope that it may inspire others!
+
+My thenks go to https://github.com/damienmaguire for the inspiration. For this first foray into PCB design I started by adapting his https://github.com/damienmaguire/Prius-Gen-2-Inverter project.
