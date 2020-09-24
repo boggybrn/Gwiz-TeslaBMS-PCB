@@ -8,6 +8,7 @@ The hardware provides:
 - An output to control the charging current
 - An output to control the charging voltage (can be used to stop charging)
 - An output to control the battery fan used to cool the charger (not tested yet)
+- A serial interface to the Mercedes/Tesla battery module BMS slave boards, used to read cell voltages & module temperatures plus to control cell balancing.
 - A CAN interface suitable for connecion to a CAN based current sensor e.g. LEM CAB300 (not teted yet)
 - A connector to plug in a ESP8266 WiFi/ Web interface module - to give a display of certain values e.g. battery voltage
 - A header for connection of an FTDI serial to USB module for configuration and diagnostics
