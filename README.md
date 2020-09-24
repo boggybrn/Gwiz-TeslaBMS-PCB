@@ -1,6 +1,8 @@
 # Gwiz-TeslaBMS-PCB
 The design files for a circuit board to provide the hardware needed to run the Gwiz-TeslaBMS code. This was designed using Designspark PCB and is based around using an STM32 Blue Pill board. Note that there are many copies of this board around which have a CSC version of the STM32F103 device. I was unable to get it working with these - so seek out one with a genuine ST device.
+
 This project is for people fitting Tesla manufactured Mercedes B-Class battery modules to a Reva G-Wiz. Four of these modules will fit under the seats and whe wired as two series, two parallel give the desired 48V (nominal). Mostly this project controls the original G-Wi charger to act appropriately for charging the LiIon battery modules.
+
 The hardware provides:
 - An input to detect when the charger is conneced to 240V AC power
 - An ouptout to control the charging current
