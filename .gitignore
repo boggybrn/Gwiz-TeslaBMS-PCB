@@ -3,3 +3,6 @@ Thumbs.*
 *.drl
 .DS_Store
 *.txt
+*.mop
+~*
+
