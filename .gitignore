@@ -1,1 +1,5 @@
 Thumbs.*
+*.gbr
+*.drl
+.DS_Store
+*.txt
